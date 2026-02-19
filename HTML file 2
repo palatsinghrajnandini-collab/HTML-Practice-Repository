@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=head, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <main>
+            <section>
+                <div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores tenetur dolorum cum modi totam, quo nobis consequatur illum explicabo alias sint molestias porro nesciunt quae, atque recusandae! Porro, architecto quisquam!</p>
+                </div>
+                <div><h1> my passport image</h1>
+                    <a href="https://codewithharry.com" target="_main" ><img src="passport photo.jpg" width="50" alt=""> </a></div>
+                
+            </section>
+        </main>
+        <footer>
+            This is footer
+        </footer>
+        <span> Rajnandini</span>
+    </header>
+</body>
+</html>
